@@ -294,6 +294,8 @@ a:hover { opacity: 0.85; }
   padding: 28px 24px;
 }
 
+.donate-card--cta { text-align: center; }
+
 .donate-card h3 {
   font-size: 1.05rem;
   margin-bottom: 20px;
